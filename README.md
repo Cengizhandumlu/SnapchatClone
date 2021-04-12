@@ -1,4 +1,4 @@
-# SnapchatClone
+# SnapchatClone App
 
 ## Snapchat Clone with Firebase
 
